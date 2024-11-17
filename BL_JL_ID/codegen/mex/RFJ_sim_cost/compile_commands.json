@@ -1,0 +1,86 @@
+[
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  RFJ_sim_cost_data.c -o build/win64/RFJ_sim_cost_data.o",
+    "file": "RFJ_sim_cost_data.c",
+    "output": "build/win64/RFJ_sim_cost_data.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  RFJ_sim_cost_initialize.c -o build/win64/RFJ_sim_cost_initialize.o",
+    "file": "RFJ_sim_cost_initialize.c",
+    "output": "build/win64/RFJ_sim_cost_initialize.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  RFJ_sim_cost_terminate.c -o build/win64/RFJ_sim_cost_terminate.o",
+    "file": "RFJ_sim_cost_terminate.c",
+    "output": "build/win64/RFJ_sim_cost_terminate.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  RFJ_sim_cost.c -o build/win64/RFJ_sim_cost.o",
+    "file": "RFJ_sim_cost.c",
+    "output": "build/win64/RFJ_sim_cost.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  ode45.c -o build/win64/ode45.o",
+    "file": "ode45.c",
+    "output": "build/win64/ode45.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  warning.c -o build/win64/warning.o",
+    "file": "warning.c",
+    "output": "build/win64/warning.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  sumMatrixIncludeNaN.c -o build/win64/sumMatrixIncludeNaN.o",
+    "file": "sumMatrixIncludeNaN.c",
+    "output": "build/win64/sumMatrixIncludeNaN.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  interface/_coder_RFJ_sim_cost_api.c -o build/win64/_coder_RFJ_sim_cost_api.o",
+    "file": "interface/_coder_RFJ_sim_cost_api.c",
+    "output": "build/win64/_coder_RFJ_sim_cost_api.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  interface/_coder_RFJ_sim_cost_mex.c -o build/win64/_coder_RFJ_sim_cost_mex.o",
+    "file": "interface/_coder_RFJ_sim_cost_mex.c",
+    "output": "build/win64/_coder_RFJ_sim_cost_mex.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  RFJ_sim_cost_emxutil.c -o build/win64/RFJ_sim_cost_emxutil.o",
+    "file": "RFJ_sim_cost_emxutil.c",
+    "output": "build/win64/RFJ_sim_cost_emxutil.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  RFJ_sim_cost_mexutil.c -o build/win64/RFJ_sim_cost_mexutil.o",
+    "file": "RFJ_sim_cost_mexutil.c",
+    "output": "build/win64/RFJ_sim_cost_mexutil.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  interface/_coder_RFJ_sim_cost_info.c -o build/win64/_coder_RFJ_sim_cost_info.o",
+    "file": "interface/_coder_RFJ_sim_cost_info.c",
+    "output": "build/win64/_coder_RFJ_sim_cost_info.o"
+  },
+  {
+    "directory": "C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2023b\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\" -I \"C:\\Users\\marco\\Desktop\\università\\5\\semestre2\\AUTOMATION_LAB\\Identification\\BL_JL_ID\\codegen\\mex\\RFJ_sim_cost\\interface\" -I \"C:\\Program Files\\MATLAB\\R2023b\\extern\\include\" -I \".\" -DMODEL=RFJ_sim_cost_mex -D__USE_MINGW_ANSI_STDIO=1 -msse2  \"C:/Program Files/MATLAB/R2023b/extern/version/c_mexapi_version.c\" -o build/win64/c_mexapi_version.o",
+    "file": "C:/Program Files/MATLAB/R2023b/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
